@@ -1,5 +1,8 @@
-## The name of the app : Mirece 
-## The audience : Vegetarians
+## The name of the app : 
+Mirece 
+
+## The audience : 
+Vegetarians
 
 ## Description :
 
@@ -10,8 +13,6 @@ the ingredient, and you choose from the listed recipes.
 ## User Story:
 
 As a user I want to be able to type an ingredient in a searching bar and be able to see all the recipes available.
-
-
 
 ## Acceptance Criteria:
 
