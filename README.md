@@ -16,8 +16,8 @@ As a user I want to be able to type an ingredient in a searching bar and be able
 
 ## Acceptance Criteria:
 
-When I load the app
-Then I'm presented with a landing page containing a search bar, and a navigation menu a populate recipes and a navigation bar
+# When I load the app
+# Then I'm presented with a landing page containing a search bar, and a navigation menu a populate recipes and a navigation bar
 
 When I search for an ingredient
 Then I'm presented with a list of recipes that include that ingredient
