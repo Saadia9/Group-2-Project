@@ -1,19 +1,19 @@
- The name of the app : Mirece 
- The audience : Vegetarians
+## The name of the app : Mirece 
+## The audience : Vegetarians
 
-Description :
+## Description :
 
 Mirece is an app where you can see recipes depending on the ingredients you have, you can type the name of an ingredient and the app will return the recipes containing
 the ingredient, and you choose from the listed recipes.
 
 
-User Story:
+## User Story:
 
 As a user I want to be able to type an ingredient in a searching bar and be able to see all the recipes available.
 
 
 
-Acceptance Criteria:
+## Acceptance Criteria:
 
 When I load the app
 Then I'm presented with a landing page containing a search bar, and a navigation menu a populate recipes and a navigation bar
