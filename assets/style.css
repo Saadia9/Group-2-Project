@@ -1,0 +1,7 @@
+.logo{
+    position: relative; /* Ensure the container is positioned relative */
+    width: 75px; /* Adjust width as needed */
+    height: auto; /* Adjust height as needed */
+    overflow: hidden; /* Ensure image doesn't overflow container */
+    margin-left: 25px;
+}
