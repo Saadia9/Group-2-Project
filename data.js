@@ -105,8 +105,7 @@ const recipes=[
             { name: 'Pine Nuts', quantity:1, unit:'Tbs',},
 
         ],
-        instructions:['Whisk together the oil, harissa, vinegar and honey in a bowl. Peel the courgette into long strips using a vegetable peeler, then toss in the dressing and season well. Toast the flatbreads for 1 min until warmed.', 'Spoon the ricotta over the flatbreads, then season. Scatter over the courgette strips, reserving any left-over dressing in the bowl. Crumble over the feta and scatter over the pine nuts, then season. Slide under a hot grill for 5-8 mins or until the courgette wilts and the feta is golden. Alternatively, cook in a hot pizza oven for 2-3 mins or until golden and crisp. Drizzle over any left-over dressing.'],
-    },, ''
+        instructions:['Whisk together the oil, harissa, vinegar and honey in a bowl. Peel the courgette into long strips using a vegetable peeler, then toss in the dressing and season well. Toast the flatbreads for 1 min until warmed.', 'Spoon the ricotta over the flatbreads, then season. Scatter over the courgette strips, reserving any left-over dressing in the bowl. Crumble over the feta and scatter over the pine nuts, then season. Slide under a hot grill for 5-8 mins or until the courgette wilts and the feta is golden. Alternatively, cook in a hot pizza oven for 2-3 mins or until golden and crisp. Drizzle over any left-over dressing.']},
 
     {
         name:"Vegan Roasted Tomato Soup",
