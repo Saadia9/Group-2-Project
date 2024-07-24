@@ -127,6 +127,88 @@ const recipes=[
     
 
     {
+        name:"Dairy-Free Mac & Cheese",
+        imageUrl:"https://i0.wp.com/jackfruitful.com/wp-content/uploads/2024/05/Vegan-Mac-and-cheese4-1.jpg",
+        ingredients:[
+            {name: 'Macaroni shape of choice', quantity:12, unit:'oz',},
+            {name: 'Cashew butter', quantity:1/2, unit:'cups',},
+            { name: 'garlic powder', quantity:1, unit:'tsp',},
+            { name: 'Pasta water', quantity:1/2, unit:'cups',},
+            { name: 'Nutritional yeast', quantity:1/3, unit:'cups',},
+            { name: 'Arrowroot powder', quantity:1, unit:'Tbs',},
+            { name: 'Miso paste', quantity:1, unit:'tsp',},
+            { name: 'Onion powder', quantity:1/2, unit:'tsp',},
+            { name: 'Sea Salt', quantity:3/4, unit:'tsp',},
+            { name: 'Turmeric', quantity:1/8, unit:'tsp',},
+
+        ],
+        instructions:['Bring a medium saucepan of generously salted water to a boil and cook pasta according to package instructions. Drain and set aside, reserving 1/2 cup of pasta water.','While pasta is cooking, add the cashew butter, garlic powder, pasta water, nutritional yeast, arrowroot powder, miso paste, onion powder, sea salt, and turmeric to a blender and puree until smooth and creamy. Adjust thickness by adding a bit more water or milk to thin, if needed.','Return the cooked pasta to the saucepan over low heat and pour the sauce over the noodles, adding your desired amount and tossing to coat. Stir in a bit of reserved pasta water, little by little, stirring to achieve desired texture and let sauce heat through.'],
+    },
+    
+
+    {
+        name:"Oatmeal Chocolate Chip Salted Caramel Cookies",
+        imageUrl:"https://i0.wp.com/jackfruitful.com/wp-content/uploads/2024/06/Chewy-Salted-Caramel-Chocolate-Chip-Oatmeal-Cookies24.jpg?w=1125&ssl=1",
+        ingredients:[
+            { name: 'Coconut sugar (for the caramel)', quantity:3, unit:'cups',},
+            { name: 'Coconut sugar', quantity:3, unit:'cups',},
+            { name: 'Ground flaxseed', quantity:1, unit:'Tbs',},
+            { name: 'Water', quantity:3, unit:'Tbs',},
+            { name: 'Coconut butter', quantity:1/4, unit:'cups',},
+            { name: 'Creamy Almond Butter', quantity:1/2, unit:'cups',},
+            { name: 'Pure vanilla extract', quantity:1, unit:'Tbs',},
+            { name: 'Maple syrup', quantity:1/4, unit:'cups',},
+            { name: 'Baking soda', quantity:1/2, unit:'tsp',},
+            { name: 'Cinnamon', quantity:1/2, unit:'tsp',},
+            { name: 'Sea Salt', quantity:1/2, unit:'tsp',},
+            { name: 'Gluten free rolled oats', quantity:3/2, unit:'cups',},
+            { name: 'Super fine blanched almond flour', quantity:1/2, unit:'cups',},
+            { name: 'Chopped walnuts', quantity:1/2, unit:'cups',},
+            { name: 'Dark chocolate chips', quantity:1/2, unit:'cups',},
+            { name: 'Flaky sea salt to sprinkle', quantity:null, unit:null,},
+
+
+
+        ],
+        instructions:['Start by preheating your oven to 350 and lining two large metal baking sheets with parchment paper. Set one of them right by your stove top.', "We're going to start by making the caramel. It happens fast, and can burn easily, so be prepared! Place your coconut sugar in a small saucepan over medium heat. Stir constantly until the sugar turns from a sandy texture, to a wet sand texture, and eventually begins to melt and liquify. The transition from sandy to smooth will take a few minutes. At this point, reduce the heat to medium low. Keep stirring constantly until you have a smooth, shiny, liquified but thick caramel. Instantly remove it from the heat - do not let it burn!", "Immediately pour the caramel onto the baking sheet in a thin layer to let it cool. Once it hardens after about 5 minutes, transfer it to a cutting board and finely chop. Set aside. Reuse the parchment paper (the caramel should not stick), if possible, or replace it with a new sheet!","Prepare your cookie dough by adding the ground flaxseed and water to a mixing bowl, stir to combine and let rest for about 5-10 minutes until it thickens and becomes gelatinous. Add in the coconut butter, almond butter, vanilla, sugar, and maple syrup, and use a hand mixer to cream together for about 30-60 seconds until well combined.", "Add in the baking soda, cinnamon, salt, oats, and almond flour and mix on low speed, just until incorporated. The dough will be a bit wet. Gently fold in the walnuts, chocolate chips, and caramel pieces.",'Use a 1.5" cookie dough scoop to scoop out 24 cookies and place 2" apart on the two prepared baking sheets. Sprinkle with flaky sea salt and bake for exactly 8 minutes! Oven times can vary slightly, but be sure not to over bake. They will still look a little bit puffy and under cooked when you take them out.','Let them rest on the baking sheet for at least 5 minutes before enjoying and cool completely before storing. They can be stored in an air tight container on the counter for up to a week, or in the freezer for up to 6 months. These cookies are almost even better the second day!'],
+    },
+    
+
+    {
+        name:"Breakfast Tacos",
+        imageUrl:"https://cdn.loveandlemons.com/wp-content/uploads/2024/05/breakfast-tacos.jpg",
+        ingredients:[
+            { name: 'Eggs', quantity:4, unit:'unit',},
+            { name: 'Sea salt', quantity:null, unit:null,},
+            { name: 'Avocado Oil', quantity:1/2, unit:'tsp',},
+            { name: 'Pico de gallo', quantity:1, unit:'cup',},
+            { name: 'Cheddar cheese', quantity:1/4, unit:'cup',},
+            { name: 'Avocado', quantity:1/2, unit:'unit',},
+            { name: 'Corn tortillas', quantity:4, unit:'unit',},
+            { name: 'Fresh cilantro leaves', quantity:null, unit:null,},
+        ],
+        instructions:['In a medium bowl, beat the eggs with a pinch of salt.'],'In a medium nonstick skillet, heat the avocado oil over medium heat. Add half the pico de gallo and cook, stirring, for 3 to 5 minutes, or until lightly softened. Add the eggs and scramble until just set. Stir in the cheese and remove from the heat.', 'To assemble breakfast tacos, divide the eggs and avocado slices among the tortillas. Top with the remaining pico de gallo and cilantro. Serve with hot sauce.',},
+    
+
+    {
+        name:"Easy Pasta Arrabiata",
+        imageUrl:"https://www.saltandlavender.com/wp-content/uploads/2019/04/easy-pasta-arrabiata-recipe-3-768x1152.jpg",
+        ingredients:[
+            { name: 'Extra-Virgin Olive Oil', quantity:3, unit:'Tbs',},
+            { name: 'Garlic', quantity:3, unit:'clove',},
+            { name: 'Red pepper flakes', quantity:1, unit:'tsp',},
+            { name: 'Finely chopped tomatoes', quantity:2, unit:'cans',},
+            { name: 'Brown sugar', quantity:1, unit:'tsp',},
+            { name: 'Salt', quantity:null, unit:null,},
+            { name: 'Pepper', quantity:null, unit:null,},
+            { name: 'Parmesan cheese', quantity:null, unit:null,},
+            { name: 'Uncooked penne', quantity:8, unit:'oz',},
+        ],
+        instructions:[],
+    },
+    
+
+    {
         name:"",
         imageUrl:"https://",
         ingredients:[
