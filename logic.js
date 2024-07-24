@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', function () {
                         <h5 class="card-title">${recipe.name}</h5>
                         <p class="card-text">${renderingredient(recipe.ingredients)}</p>
                         <p class="card-text">${recipe.instructions}<p/>
-                        <a href="#" class="btn btn-primary">View Recipe</a>
+                        <a href="#" class="btn btn-primary">View Recipe</a> 
                     </div>
                 `; // JUSTIN PLEASE XPLAIN JUSTIN JUSTIN JUSTIN JUSTIN, HOW DO I ADD THE QUANTITIES AND UNITS IN BETWEEN EACH INGREDIENT?
                 // The MAP method creates a new array populated with the results of calling a provided function on every element in the calling array. In this case, it takes each ingredient object in the ingredients array and returns its name property. The result is an array of ingredient names.
