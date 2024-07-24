@@ -1,8 +1,8 @@
 .logo{
-    position: relative; /* Ensure the container is positioned relative */
-    width: 75px; /* Adjust width as needed */
-    height: auto; /* Adjust height as needed */
-    overflow: hidden; /* Ensure image doesn't overflow container */
+    position: relative; 
+    width: 75px; 
+    height: auto; 
+    overflow: hidden; 
     margin-left: 25px;
 }
 
@@ -10,8 +10,10 @@
     position: relative;
     width: auto;
     height: 200px;
-    background: url('/assets/AdobeStock_179943152_fruit_vegetables-4_seasons-scaled.jpeg') no-repeat center center/cover;
+    background: url('./banner.jpeg') no-repeat center center/cover;
     margin: 0;
+    color: rgb(255, 255, 255);
+    /* filter: blur(8px); */
 }
 
 .hero-overlay {
@@ -34,3 +36,30 @@
     1px 1px 0 black;
 }
 
+
+.hero h2{
+    margin-bottom: 20px;
+    text-shadow: rgb(7, 6, 0) 30px 0 30px;
+}
+
+
+.card-img-top {
+    height: 300px;
+    object-fit: cover;
+    object-position: center;
+}
+
+/* .card-text {
+    font-size: 0.9em;
+    line-height: 1.4;
+} */
+
+.card-body {
+    text-align: left;
+    /* overflow: hidden; */
+}
+
+/* .card-title {
+    font-size: 1.1em;
+    margin-bottom: 10px;
+} */
