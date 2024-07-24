@@ -1,7 +1,7 @@
 const recipes = [
     {
         name: "Cashew Crunch Salad",
-        imageUrl: "https://munchingwithmariyah.com/wp-content/uploads/2023/06/IMG_1636-scaled.jpg/",
+        imageUrl: "https://munchingwithmariyah.com/wp-content/uploads/2023/06/IMG_1636-scaled.jpg",
         ingredients: [
             { name: 'Tofu', quantity: 1, unit: 'block', },
             { name: 'Avocado Oil', quantity: null, unit: null, },
@@ -78,7 +78,7 @@ const recipes = [
         imageUrl: "https://cdn.loveandlemons.com/wp-content/uploads/2019/09/hummus-recip-e.jpg",
         ingredients: [
             { name: 'Chickpeas', quantity: 1.5, unit: 'cup', },
-            { name: 'Tahini', quantity: 1 / 3, unit: 'cup', },
+            { name: 'Tahini', quantity: 0.3, unit: 'cup', },
             { name: 'Extra-Virgin Olive Oil', quantity: 2, unit: 'Tbs', },
             { name: 'Lemon Juice', quantity: 2, unit: 'Tbs', },
             { name: 'Garlic', quantity: 1, unit: 'clove', },
@@ -117,7 +117,7 @@ const recipes = [
             { name: 'Carrot', quantity: 1, unit: 'unit', },
             { name: 'Garlic', quantity: 5, unit: 'cloves', },
             { name: 'Water', quantity: 3, unit: 'cups', },
-            { name: 'Cashews', quantity: 1 / 3, unit: 'cups', },
+            { name: 'Cashews', quantity: 0.3, unit: 'cups', },
             { name: 'Chopped Basil', quantity: 1 / 4, unit: 'cups', },
             { name: 'Tomato paste', quantity: 1, unit: 'Tbs', },
             { name: 'Salt', quantity: null, unit: null, },
@@ -135,7 +135,7 @@ const recipes = [
             { name: 'Cashew butter', quantity: 1 / 2, unit: 'cups', },
             { name: 'garlic powder', quantity: 1, unit: 'tsp', },
             { name: 'Pasta water', quantity: 1 / 2, unit: 'cups', },
-            { name: 'Nutritional yeast', quantity: 1 / 3, unit: 'cups', },
+            { name: 'Nutritional yeast', quantity: 0.3, unit: 'cups', },
             { name: 'Arrowroot powder', quantity: 1, unit: 'Tbs', },
             { name: 'Miso paste', quantity: 1, unit: 'tsp', },
             { name: 'Onion powder', quantity: 1 / 2, unit: 'tsp', },
@@ -206,7 +206,7 @@ const recipes = [
             { name: 'Parmesan cheese', quantity: null, unit: null, },
             { name: 'Uncooked penne', quantity: 8, unit: 'oz', },
         ],
-        instructions: [],
+        instructions: ['Add the oil to a medium-sized pot over medium-high heat.', "Once the oil is hot, add the garlic and let it cook for a minute or so (watch it closely and don't let it brown).", "Stir in the red pepper flakes, tomatoes, and sugar (if using, see note). Reduce the heat and let it simmer, stirring occasionally, for about 15 minutes.", 'While the sauce is simmering, boil a large, salted pot of water for your pasta. Cook it al dente according to package directions.', 'Season the sauce with salt & pepper as needed. I added a fair bit of salt. , "Drain the pasta and toss with the sauce (you can add a little pasta water too if you wish). Top with freshly grated parmesan cheese.'],
     },
 
 
