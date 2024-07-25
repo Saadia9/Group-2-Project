@@ -92,7 +92,7 @@ const recipes = [
 
     {
         name: "Easy Flatbreads",
-        imageUrl: "https:/https://images.immediate.co.uk/production/volatile/sites/2/2024/05/OliveJune245.4.24CoverEffortlessCourgetteHarissaFlatbreads-143-d1b1c2a.gif?quality=90&webp=true&resize=600,545/",
+        imageUrl: "https://images.immediate.co.uk/production/volatile/sites/2/2024/05/OliveJune245.4.24CoverEffortlessCourgetteHarissaFlatbreads-143-d1b1c2a.gif?quality=90&webp",
         ingredients: [
             { name: 'Extra-Virgin Olive Oil', quantity: 2, unit: 'Tbs', },
             { name: 'Rose Harissa', quantity: 1, unit: 'Tbs', },
