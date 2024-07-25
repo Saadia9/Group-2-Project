@@ -63,3 +63,8 @@
     font-size: 1.1em;
     margin-bottom: 10px;
 } */
+
+.card img {
+    height: 500px;
+    object-fit: cover;
+}
